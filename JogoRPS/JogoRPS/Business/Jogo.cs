@@ -12,7 +12,7 @@ namespace JogoRPS.JogoRPS.Business
         private static int JOGADOR_UM = 0;
         private static int JOGADOR_DOIS = 1;
         
-        public Jogador RpsGameWinner(List<Jogador> jogadores)
+        public static Jogador RpsGameWinner(List<Jogador> jogadores)
         {            
             if (jogadores.Count != _QUANTIDADE_JOGADORES)
                 throw new WrongNumberOfPlayersErrorException(ExceptionMessages.NumeroJogadoresInvalido);
@@ -21,7 +21,7 @@ namespace JogoRPS.JogoRPS.Business
             return CalcularGanhador(jogadores);
         }
         
-        private void ValidarJogada(List<Jogador> jogadores)
+        private static void ValidarJogada(List<Jogador> jogadores)
         {
             foreach (Jogador jogador in jogadores)
             {
@@ -31,7 +31,7 @@ namespace JogoRPS.JogoRPS.Business
         }
 
         //R bate S; S bate P; e P bate R
-        private Jogador CalcularGanhador(List<Jogador> jogadores)
+        private static Jogador CalcularGanhador(List<Jogador> jogadores)
         {
             var jogadaJogadorUm = jogadores[JOGADOR_UM].Jogada.ToUpper();
             var jogadaJogadorDois = jogadores[JOGADOR_DOIS].Jogada.ToUpper();
