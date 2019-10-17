@@ -1,0 +1,13 @@
+C:\Users\JoãoPaulo\source\repos\JogoRPS\JogoRPS\bin\Debug\netcoreapp2.2\JogoRPS.deps.json
+C:\Users\JoãoPaulo\source\repos\JogoRPS\JogoRPS\bin\Debug\netcoreapp2.2\JogoRPS.runtimeconfig.json
+C:\Users\JoãoPaulo\source\repos\JogoRPS\JogoRPS\bin\Debug\netcoreapp2.2\JogoRPS.runtimeconfig.dev.json
+C:\Users\JoãoPaulo\source\repos\JogoRPS\JogoRPS\bin\Debug\netcoreapp2.2\JogoRPS.dll
+C:\Users\JoãoPaulo\source\repos\JogoRPS\JogoRPS\bin\Debug\netcoreapp2.2\JogoRPS.pdb
+C:\Users\JoãoPaulo\source\repos\JogoRPS\JogoRPS\obj\Debug\netcoreapp2.2\JogoRPS.csprojAssemblyReference.cache
+C:\Users\JoãoPaulo\source\repos\JogoRPS\JogoRPS\obj\Debug\netcoreapp2.2\JogoRPS.ExceptionMessages.resources
+C:\Users\JoãoPaulo\source\repos\JogoRPS\JogoRPS\obj\Debug\netcoreapp2.2\JogoRPS.csproj.GenerateResource.cache
+C:\Users\JoãoPaulo\source\repos\JogoRPS\JogoRPS\obj\Debug\netcoreapp2.2\JogoRPS.csproj.CoreCompileInputs.cache
+C:\Users\JoãoPaulo\source\repos\JogoRPS\JogoRPS\obj\Debug\netcoreapp2.2\JogoRPS.AssemblyInfoInputs.cache
+C:\Users\JoãoPaulo\source\repos\JogoRPS\JogoRPS\obj\Debug\netcoreapp2.2\JogoRPS.AssemblyInfo.cs
+C:\Users\JoãoPaulo\source\repos\JogoRPS\JogoRPS\obj\Debug\netcoreapp2.2\JogoRPS.dll
+C:\Users\JoãoPaulo\source\repos\JogoRPS\JogoRPS\obj\Debug\netcoreapp2.2\JogoRPS.pdb
